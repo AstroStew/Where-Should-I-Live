@@ -8,3 +8,4 @@ shapely
 sklearn
 seaborn
 missingno
+openpyxl
