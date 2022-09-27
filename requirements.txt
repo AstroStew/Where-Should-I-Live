@@ -9,4 +9,10 @@ sklearn
 seaborn
 missingno
 openpyxl
-geoviews
+cartopy
+cython
+geos
+shapely
+pyshp
+PROJ
+six
